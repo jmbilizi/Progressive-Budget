@@ -26,7 +26,8 @@
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "webpack-manifest-plugin": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
