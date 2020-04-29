@@ -1,5 +1,3 @@
-import css from "./styles.css";
-
 let transactions = [];
 let myChart;
 
